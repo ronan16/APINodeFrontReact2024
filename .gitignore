@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Ignorar a chave de serviço do Firebase
-firebase-key.json
-
+APIFirebase/firebase-key.json
